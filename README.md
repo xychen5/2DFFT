@@ -6,5 +6,5 @@ compression example:
 ![compression image](https://github.com/xychen5/2DFFT/blob/master/compression.PNG)
 
 basic elements:
-![basic elements](https://github.com/xychen5/2DFFT/blob/master/basicElements_2DFFT.m)
+![basic elements](https://github.com/xychen5/2DFFT/blob/master/basicElements.png)
 
